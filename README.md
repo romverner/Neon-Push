@@ -12,4 +12,4 @@ using the love command:
 
 Or, simply drop the `neon_push` folder over the application executeable file.
 
-![GIF](./output.gif)
+![til](./output.gif)
